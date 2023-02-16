@@ -7,7 +7,6 @@ export default function Home() {
     <>
       <NavBar />
 
-      {/* the space bellow should have 100vh */}
       <main className="h-[calc(100vh-50px)] flex flex-col">
         <div className="flex flex-col justify-center items-center m-auto">
           <h1 className="text-center text-6xl">FRONT END DEVELOPER</h1>
